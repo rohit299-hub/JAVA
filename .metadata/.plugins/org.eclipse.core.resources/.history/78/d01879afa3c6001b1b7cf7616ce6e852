@@ -1,0 +1,10 @@
+package Collectionprg;
+
+public class Linklisremove {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
